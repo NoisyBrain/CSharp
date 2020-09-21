@@ -1,1 +1,0 @@
-{"CodCliente":"Leonardo1540357267","NomeCliente":"Leonardo"}
